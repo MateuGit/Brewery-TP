@@ -1,5 +1,5 @@
 # Brewery-TP
-Project with threads with blocks synchronized.
+Project with threads and blocks synchronized.
 
 -Pruebas: 11  -  16 -  7  
 
